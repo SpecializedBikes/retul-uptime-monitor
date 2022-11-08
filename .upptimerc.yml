@@ -13,7 +13,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /retul-uptime-monitor
   name: Retül
-  apiBaseUrl: https://api.github.com
   publish: true
 
 
