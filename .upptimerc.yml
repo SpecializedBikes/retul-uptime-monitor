@@ -12,7 +12,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #baseUrl: /retul-uptime-monitor
-  #cname: https://specializedbicycles.github.io/retul-uptime-monitor
+  cname: https://cuddly-pancake-91e25202.pages.github.io
   logoUrl: https://images.squarespace-cdn.com/content/v1/5926130fd482e9754a46296b/1496783195499-WJTPMMVIJSB7WKRL561Z/RetulLogo.png?format=1500w
   publish: true
   theme: dark
