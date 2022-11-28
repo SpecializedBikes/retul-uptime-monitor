@@ -7,6 +7,8 @@ sites:
     url: https://api.production.retul.com/premium-fit-service/admin/login/?next=/premium-fit-service/admin/
   - name: Bike Sizing Service Admin Page
     url: https://api.production.retul.com/bike-sizing-service/admin/login/?next=/bike-sizing-service/admin/
+  - name: Bike Sizing Service Health Check
+    url: https://api.production.retul.com/bike-sizing-service/health_check/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
