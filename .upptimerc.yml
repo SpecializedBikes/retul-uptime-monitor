@@ -17,6 +17,7 @@ status-website:
   logoUrl: https://images.squarespace-cdn.com/content/v1/5926130fd482e9754a46296b/1496783195499-WJTPMMVIJSB7WKRL561Z/RetulLogo.png?format=1500w
   publish: true
   theme: dark
+  name: Retül Services Uptime Monitor
   navbar:
     - title: Status
       href: /
