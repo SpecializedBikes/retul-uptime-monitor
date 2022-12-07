@@ -3,10 +3,14 @@ owner: SpecializedBicycles # Your GitHub organization or username, where this re
 repo: retul-uptime-monitor # The name of this repository
 
 sites:
-  - name: Premium Fit Admin Page
-    url: https://api.production.retul.com/premium-fit-service/admin/login/?next=/premium-fit-service/admin/
-  - name: Bike Sizing Service Admin Page
-    url: https://api.production.retul.com/bike-sizing-service/admin/login/?next=/bike-sizing-service/admin/
+  - name: Premium Fit Health Check
+    url: https://api.production.retul.com/premium-fit-service/health_check/
+  - name: Retailer Roles Health Check
+    url: https://api.production.retul.com/retailer-roles-service/health_check/
+  - name: Retul at Home Health Check
+    url: https://api.production.retul.com/retul-at-home-service/health_check/
+  - name: Passport Health Check
+    url: https://api.production.retul.com/passport-service/health_check/
   - name: Bike Sizing Service Health Check
     url: https://api.production.retul.com/bike-sizing-service/health_check/
     
