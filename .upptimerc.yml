@@ -29,13 +29,13 @@ status-website:
       href: https://github.com/$OWNER/$REPO
   
 workflowSchedule:
-  graphs: "0 1 * * *"
-  responseTime: "0 23 * * *"
-  staticSite: "30 1 * * *"
-  summary: "0 0 * * *"
+  graphs: "*/5 * * * *"
+  responseTime: "*/5 * * * *"
+  staticSite: "*/5 * * * *"
+  summary: "*/5 * * * *"
   updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "30 * * * *"
+  updates: "0 0 * * *"
+  uptime: "*/5 * * * *"
 
 
 
