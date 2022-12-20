@@ -1,7 +1,7 @@
 url: https://api.production.retul.com/bike-sizing-service/health_check/
 status: up
 code: 200
-responseTime: 269
-lastUpdated: 2022-12-20T10:11:40.383Z
+responseTime: 339
+lastUpdated: 2022-12-20T10:25:00.646Z
 startTime: Mon Nov 28 2022 23:53:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
