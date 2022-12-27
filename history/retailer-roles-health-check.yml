@@ -1,7 +1,7 @@
 url: https://api.production.retul.com/retailer-roles-service/health_check/
 status: up
 code: 200
-responseTime: 222
-lastUpdated: 2022-12-27T13:52:59.002Z
+responseTime: 385
+lastUpdated: 2022-12-27T14:02:43.452Z
 startTime: Wed Dec 07 2022 18:29:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
