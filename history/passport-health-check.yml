@@ -1,7 +1,7 @@
 url: https://api.production.retul.com/passport-service/health_check/
 status: up
 code: 200
-responseTime: 422
-lastUpdated: 2023-01-05T22:46:41.833Z
+responseTime: 283
+lastUpdated: 2023-01-05T22:55:40.988Z
 startTime: Wed Dec 07 2022 18:29:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
